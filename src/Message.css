@@ -1,0 +1,18 @@
+.messagecard_user {
+    padding: 10px;
+    margin: 20px;
+    width: fit-content;
+    margin-left: auto;
+    text-align: left !important; 
+    background-color: blue !important;       
+}
+
+.messagecard_guest {
+    padding: 10px;
+    margin: 20px;
+    width: fit-content;
+    background-color: wheat !important;
+}
+
+
+
